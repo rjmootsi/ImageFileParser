@@ -17,7 +17,6 @@ import java.util.Base64;
 
 
 public class ImageFileParser implements FileParser {
-    // Other methods
 
     @Override
     public void parseCSV(File csvFile) {
